@@ -17,6 +17,7 @@ namespace ITExpertsEraFeb2024Batch
         public int Weight { get; set; }
 
         public int Weight2 { get; set; }
+        public int Weight3 { get; set; }
 
         // Methods
 
