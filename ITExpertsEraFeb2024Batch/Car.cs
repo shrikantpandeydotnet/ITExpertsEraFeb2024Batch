@@ -14,6 +14,8 @@ namespace ITExpertsEraFeb2024Batch
 
         public string Color { get; set; }
 
+        public int Weight { get; set; }
+
         // Methods
 
         // Access Modifier | Return Type | Method Name | Method Parameters
