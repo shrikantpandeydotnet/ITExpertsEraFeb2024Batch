@@ -15,6 +15,7 @@ namespace ITExpertsEraFeb2024Batch
         public int Ram { get; set; }
 
         public int Rom { get; set; }
-       
+        public int TestProperty { get; set; }
+
     }
 }

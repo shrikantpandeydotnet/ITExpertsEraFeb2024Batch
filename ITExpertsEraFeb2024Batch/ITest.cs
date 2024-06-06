@@ -8,6 +8,7 @@ namespace ITExpertsEraFeb2024Batch
 {
     public interface ITest
     {
+        //test
         void Sum(int a, int b);
 
         void Diff(int a, int b);
